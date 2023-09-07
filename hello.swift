@@ -7,3 +7,4 @@ dev commit -2
 master commit -1
 master amend commit test
 feature-2 commit -1
+feature-2 commit -2
